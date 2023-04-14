@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'agent_andres_cuero_lab4'
+  vmImage: 'Self-Hosted-Agent-Lab4'
 
 variables:
   solution: '**/*.sln'
